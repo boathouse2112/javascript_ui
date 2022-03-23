@@ -1,0 +1,29 @@
+{
+  "name": "javascript_ui",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boathouse2112/javascript_ui.git"
+  },
+  "author": "Mark Murphy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boathouse2112/javascript_ui/issues"
+  },
+  "homepage": "https://github.com/boathouse2112/javascript_ui#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.11",
+    "eslint": "^8.11.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4",
+    "jest": "^27.5.1",
+    "prettier": "^2.6.0",
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
