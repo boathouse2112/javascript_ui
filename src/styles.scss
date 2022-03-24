@@ -29,10 +29,10 @@ body {
 
   font-size: inherit;
   color: darkcyan;
-}
 
-.dropdown:hover {
-  background-color: lightcyan;
+  &:hover {
+    background-color: lightcyan;
+  }
 }
 
 .dropdown-content {
